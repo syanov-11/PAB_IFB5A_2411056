@@ -1,5 +1,5 @@
 # Pemrograman Aplikasi Bergerak
-**Nama:** Syanov Nur Rshmat
+**Nama:** Syanov Nur Rahmat
 **NIM:** 2411056
 **Kelas:** IFB5A
 **Mata Kuliah:** Pemrograman Aplikasi Bergerak
